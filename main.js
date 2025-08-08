@@ -48,7 +48,7 @@ const DICT = [
   ],
   ['ちゅうとろ', ['chuutoro','tyuutoro','chu-toro','tyu-toro','tyuutorou','chuutorou']],
   // Generic kana
-  ['こんにちは', ['konnichiwa','konnihciwa','konnitiha','konnichiwa']],
+  ['こんにちは', ['konnichiwa','konnitiha']],
   ['ありがとう', ['arigatou','arigato']]
 ];
 
